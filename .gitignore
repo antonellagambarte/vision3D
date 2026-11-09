@@ -1,0 +1,3 @@
+# dataset que descarga el notebook al ejecutarse (unos 200 MB)
+frutas/
+.ipynb_checkpoints/
